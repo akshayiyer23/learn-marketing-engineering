@@ -113,11 +113,11 @@ The fastest way to learn the role is to build systems on something real: your ow
 
 | Person | Channels | Notes |
 |---|---|---|
-| Nick Lafferty | LinkedIn | Founding Marketing Engineer at Profound and host of The Marketing Engineer podcast. |
-| Drew Bredvick | LinkedIn, Blog | Director of GTM Engineering at Vercel. Built the lead agent. |
-| Holly Chen | LinkedIn | VP of Growth Marketing at Samsara, running a marketing org with roughly 90 agents. |
-| Reema Batta | LinkedIn | VP of Growth Marketing at Figma, on why judgment is the new bottleneck. |
-| Elias Stråvik | LinkedIn, GitHub | Builds open-source software for GTM teams. |
+| Nick Lafferty | [LinkedIn](https://www.linkedin.com/in/nicklafferty/) | Founding Marketing Engineer at Profound and host of The Marketing Engineer podcast. |
+| Drew Bredvick | [LinkedIn](https://www.linkedin.com/in/drew-bredvick/), [Blog](https://drew.tech/) | Director of GTM Engineering at Vercel. Built the lead agent. |
+| Holly Chen | [LinkedIn](https://www.linkedin.com/in/holly/) | VP of Growth Marketing at Samsara, running a marketing org with roughly 90 agents. |
+| Reema Batta | [LinkedIn](https://www.linkedin.com/in/reema-batta/) | VP of Growth Marketing at Figma, on why judgment is the new bottleneck. |
+| Elias Stråvik | [LinkedIn](https://www.linkedin.com/in/eliasstravik/), [GitHub](https://github.com/eliasstravik) | Builds open-source software for GTM teams. |
 
 ## Related Lists
 
